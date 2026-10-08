@@ -60,9 +60,11 @@ Assistants that answer questions and search over your own documents, notes, and 
 - [Notion AI](https://www.notion.com/product/ai) - AI built into Notion that answers questions and writes using content from your workspace and connected apps `paid` `ai` `mobile`.
 - [Onyx](https://onyx.app) - Open-source AI chat and search that connects to your documents and apps through many data connectors ([source](https://github.com/onyx-dot-app/onyx)) `oss` `selfhost` `free` `ai`.
 - [Open WebUI](https://openwebui.com) - Self-hosted AI interface for Ollama and OpenAI-compatible models with built-in RAG over your documents ([source](https://github.com/open-webui/open-webui)) `oss` `selfhost` `local` `free` `ai`.
+- [PIL](https://github.com/pjpoulose/PIL) - Open-source Muse skill that turns Instagram saved posts into a local, AI-searchable knowledge base queryable via MCP. `oss` `local` `free` `ai` `mobile`.
 - [PrivateGPT](https://github.com/zylon-ai/private-gpt) - Open-source API layer for privately chatting with your documents using local models, with no data leaving your machine `oss` `selfhost` `local` `free` `ai`.
 - [Quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG framework for building assistants that answer questions over your own files and data `oss` `selfhost` `free` `ai`.
 - [Saga](https://saga.so) - Workspace for notes, docs, and tasks with a built-in AI assistant that can answer across your pages `free` `ai`.
+- [Screenpipe](https://screenpipe.com) - Records screen and audio locally so people can search and ask AI about their computer history. `local` `ai`
 - [Sider](https://sider.ai) - Browser AI sidebar that chats with the current page, your uploaded PDFs, and saved content across many models `free` `ai` `mobile`.
 
 ## Note-Taking & PKM Apps
@@ -130,8 +132,10 @@ Tools for saving articles, bookmarks, and highlights and resurfacing them later.
 - [MyMind](https://mymind.com/) - Private visual bookmarking app that uses AI to auto-tag and organize saved links, images, notes, and articles `paid` `ai` `mobile`.
 - [Notion Web Clipper](https://www.notion.com/web-clipper) - Notion's official browser extension for saving web pages into a Notion workspace `free`.
 - [Omnivore](https://github.com/omnivore-app/omnivore) - Open-source read-it-later and highlighting app; the hosted service closed in 2024 and the code is self-hostable `oss` `selfhost`.
+- [Orano](https://oranoai.com/) - Mobile app that saves Reels, YouTube videos, articles, and PDFs and turns each save into a structured project with summary, key takeaways, and ordered action tasks `free` `ai` `mobile`.
 - [Pinboard](https://pinboard.in/) - Minimal, privacy-focused bookmarking service with tags and an optional full-text archiving add-on `paid`.
 - [Raindrop.io](https://raindrop.io/) - Bookmark manager that saves links, articles, and media into taggable collections with search and archived copies `free` `mobile`.
+- [ReadGZH](https://readgzh.site/) - Converts public WeChat article links to Markdown through a hosted service for manual import into notes. `oss`
 - [Readwise](https://readwise.io/) - Aggregates highlights from Kindle, articles, and podcasts and resurfaces them with spaced repetition `paid` `mobile`.
 - [Readwise Reader](https://readwise.io/read) - Read-it-later app for articles, newsletters, RSS, PDFs, EPUBs, and videos, with highlighting and AI features `paid` `ai` `mobile`.
 - [Recall](https://www.recall.it/) - AI knowledge base that saves and summarizes articles, videos, podcasts, and PDFs and links them in a graph `free` `ai` `mobile`.
